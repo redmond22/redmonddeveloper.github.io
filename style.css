@@ -1,0 +1,91 @@
+#top {
+    padding: 10vh 1rem;
+    margin: -1rem -1rem 1rem;
+    background-color: #f3753b;
+    color: white; 
+}
+body {
+    margin: 1rem;
+    color: #454959;
+    font: 300 100%/1.5 'Work Sans', sans-serif;
+}
+h1 h2 {
+    font: 400 4rem/1.1 'Abolition Regular', Impact, Charcoal, sans-serif;
+}
+main {
+    padding: 60px 40px;
+    border-top: 12px solid #f3753b;
+    background-color: #454959;
+    color: white;
+    box-shadow: 0 0 10px rgba(255, 0, 0, .8);
+
+}
+main {
+    hyphens: auto;
+}
+header , footer {
+    text-align: center;
+}
+body {
+    margin: 1rem;
+  color: #454959;
+  font: 300 100%/1.5 'Work Sans', sans-serif;
+}
+input[type=text], select, textarea {
+    padding:  12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    width: 100%;
+    text-align: center;
+
+}
+input[type=submit] {
+    background-color: #04aa6d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+   
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+html {
+    font-size: 1.25em;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200;
+}
+img {
+    border-radius: 50%;
+}
+.topnav a:active {
+    background-color: white;
+    color: red;
+    border-radius: 50px;
+}
+.topnav {
+    float: right;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 50px;
+
+}
+
